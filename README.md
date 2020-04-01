@@ -1,3 +1,3 @@
 # Demo-MergeConfilicts
 
-by Nicholas Loose
+simple demo by Nicholas Loose
